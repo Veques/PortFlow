@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run PortFlow",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "PortFlow.main",
+            "cwd": "${workspaceFolder}/..",
+            "console": "integratedTerminal"
+        }
+    ]
+}
